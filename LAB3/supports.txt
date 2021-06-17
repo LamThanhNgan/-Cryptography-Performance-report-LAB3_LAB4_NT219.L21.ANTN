@@ -1,0 +1,5 @@
+1. tiếng việt
+2. nhập plaintext, cipher text từ file/ màn hình 
+3. nhập key từ file/ từ màn hình / keey trong code / key random, base64, der, perm
+4. tách tiêng 2  modul mã và giải mã (input riêng)
+5. Support tính toán trong Z_p; (check :c = m^e ?) 
